@@ -1,7 +1,7 @@
 # Minimal Hardening Script
 
 Hardening script based on the recommendations given by the [Lynis!](https://cisofy.com/lynis/) security auditing tool.
-Most of the recommendations given by the security toll are addressed while adding other ones gathered through the years. The intended use case for this minimal script is for recently installed minimal Centos machines that need to be used through the internet/intranet.
+Most of the recommendations given by the security tool are addressed while adding other ones gathered through the years. The intended use case for this minimal script is for recently installed minimal Centos machines that need to be used through the internet/intranet.
 
 ## Usage
 The hardening script is almost ready to use, just modify the following elements.
